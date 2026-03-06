@@ -1,0 +1,5 @@
+{
+  "name": "CIBIL Score Improvement Predictor",
+  "description": "A professional fintech dashboard to predict short-term credit score improvements based on financial behavior changes.",
+  "requestFramePermissions": []
+}
